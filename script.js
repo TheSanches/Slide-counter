@@ -33,8 +33,3 @@ function countSlider(slidContainer, slides, flipL, flipR) {
     });
 
 }
-countSlider(sliderContainer, sliderItem, arrowsItem[0], arrowsItem[1]);
-
-// sliderContainer = parent block, main
-// sliderItem = slides
-// arrowsItem[0], arrowsItem[1] = slide switches
